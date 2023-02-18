@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **Flutter, React, C#, Game Development**
 
-- 📫 How to reach me **surhudsk@gmail.com**
-
 - ⚡ Fun fact **I think I'm cool, but you can always find out :)**
 
 
