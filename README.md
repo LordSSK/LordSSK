@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java with Backend,C++ (Trying but not getting much time though)**
 
-- 👯 I’m open to collaborate on **Flutter development,ReactJS Development, Microservices in ASP.NET**
+- 👯 I’m open to collaborate on **Flutter development, ReactJS Development, Microservices in ASP.NET, Java Springboot (Soon™)**
 
 - 👨‍💻 My Google Play developer profile [https://play.google.com/store/apps/developer?id=QuantumDots](https://play.google.com/store/apps/developer?id=QuantumDots)
 
