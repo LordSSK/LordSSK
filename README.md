@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lordssk" alt="lordssk" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter Music Player, Beatiful Stock Screener**
+- 🔭 I’m currently working on **Flutter Music Player, Beautiful Stock Screener**
 
 - 🌱 I’m currently learning **Java with Backend,C++ (Trying but not getting much time though)**
 
